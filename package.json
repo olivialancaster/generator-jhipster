@@ -57,7 +57,7 @@
         "ejs": "2.6.1",
         "glob": "7.1.2",
         "gulp-filter": "5.1.0",
-        "insight": "0.10.1",
+        "insight": "0.10.2",
         "jhipster-core": "3.6.7",
         "js-object-pretty-print": "0.3.0",
         "js-yaml": "3.12.0",
@@ -71,11 +71,11 @@
         "randexp": "0.4.9",
         "semver": "5.5.0",
         "shelljs": "0.8.2",
-        "tabtab": "2.2.2",
+        "tabtab": "3.0.2",
         "through2": "2.0.3",
         "uuid": "3.3.2",
-        "yeoman-environment": "2.3.0",
-        "yeoman-generator": "3.0.0"
+        "yeoman-environment": "3.0.0",
+        "yeoman-generator": "5.0.0"
     },
     "devDependencies": {
         "chai": "4.1.2",
