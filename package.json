@@ -49,7 +49,7 @@
         "jsdoc": "jsdoc --configure jsdoc-conf.json"
     },
     "dependencies": {
-        "axios": "0.18.0",
+        "axios": "1.8.2",
         "chalk": "2.4.1",
         "commander": "2.16.0",
         "conf": "2.0.0",
@@ -70,7 +70,7 @@
         "prettier": "1.13.7",
         "randexp": "0.4.9",
         "semver": "5.5.0",
-        "shelljs": "0.8.2",
+        "shelljs": "0.9.0",
         "tabtab": "2.2.2",
         "through2": "2.0.3",
         "uuid": "3.3.2",
