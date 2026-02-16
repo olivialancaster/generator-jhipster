@@ -49,7 +49,7 @@
         "jsdoc": "jsdoc --configure jsdoc-conf.json"
     },
     "dependencies": {
-        "axios": "0.18.0",
+        "axios": "1.13.5",
         "chalk": "2.4.1",
         "commander": "2.16.0",
         "conf": "2.0.0",
@@ -57,7 +57,7 @@
         "ejs": "2.6.1",
         "glob": "7.1.2",
         "gulp-filter": "5.1.0",
-        "insight": "0.10.1",
+        "insight": "0.12.0",
         "jhipster-core": "3.6.7",
         "js-object-pretty-print": "0.3.0",
         "js-yaml": "3.12.0",
